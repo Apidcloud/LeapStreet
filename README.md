@@ -1,5 +1,5 @@
 # LeapStreet
-Leap Motion control for Google Street View - live demo at (https://anlagehub.com/public/leapStreet/)
+Leap Motion control for Google Street View - live demo at (https://apidcloud.github.io/LeapStreet/)
 
 # Setup
 Install Leap Motion Desktop - https://www.leapmotion.com/setup/desktop/windows (tested with 2.3.1+31549) or
